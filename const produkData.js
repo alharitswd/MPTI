@@ -1,5 +1,5 @@
 const produkData = [
-  { nama: "Sayur Bayam", harga: 5000, gambar: "https://via.placeholder.com/150" },
+  { nama: "Sayur Bayam", harga: 5000, gambar: "/kentang.jpg" },
   { nama: "Sayur Kangkung ", harga: 7500, gambar: "https://via.placeholder.com/150" },
   { nama: "Sayur Toge", harga: 5000, gambar: "https://via.placeholder.com/150" },
   { nama: "Sayur Asem", harga: 5000, gambar: "https://via.placeholder.com/150" },
