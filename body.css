@@ -62,6 +62,7 @@ nav .menu{
 .menu{
   margin: auto;
 }
+
 body {
   font-family: sans-serif;
   margin: 0;
@@ -148,6 +149,30 @@ nav .menu{
   color: white;
   padding: 1rem;
   text-align: center;
+}
+
+.hero {
+  margin-top: 80px;
+  height: 100vh;
+  background-image: url('vegetables.svg'); /* Ganti dengan gambar latar sayuranmu */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.hero-text {
+  color: white;
+  text-shadow: 0 2px 5px rgba(0,0,0,0.7);
+}
+.hero-text h1 {
+  font-size: 3rem;
+  font-weight: 800;
+}
+.hero-text p {
+  font-size: 1.2rem;
+  margin-top: 1rem;
 }
 
 section {
